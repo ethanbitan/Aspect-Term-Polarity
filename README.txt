@@ -58,3 +58,14 @@ Accuracy:
   2.2. Eval on the dev set... Acc.: 84.04
   3.2. Eval on the dev set... Acc.: 85.11
   4.2. Eval on the dev set... Acc.: 84.84
+  5.2. Eval on the dev set... Acc.: 85.11
+
+
+Completed 5 runs.
+Dev accs: [85.11, 84.04, 85.11, 84.84, 85.11]
+Test accs: [-1, -1, -1, -1, -1]
+
+Mean Dev Acc.: 84.84 (0.41)
+Mean Test Acc.: -1.00 (0.00)
+
+Exec time: 2137.64 s. ( 427 per run )
